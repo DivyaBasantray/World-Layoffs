@@ -1,4 +1,4 @@
-# Layoff Dataset – SQL Data Cleaning Project
+# Layoff Dataset – SQL Data Cleaning And EDA Project
 
 This project focuses on cleaning a raw layoff dataset using SQL. The goal was to transform messy data into a reliable, analysis-ready dataset.
 
