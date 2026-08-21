@@ -4,13 +4,13 @@ This project focuses on cleaning a raw layoff dataset using SQL. The goal was to
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 The raw layoff dataset had several issues, including inconsistent values, missing entries, formatting problems and duplicate records. This project documents the full cleaning workflow with clear SQL scripts that show how each issue was handled.
 
 ---
 
-## 🧹 Key Cleaning Steps
+## Key Cleaning Steps
 
 ### 1. Standardized column values
 - Fixed inconsistent company names  
@@ -35,18 +35,18 @@ The raw layoff dataset had several issues, including inconsistent values, missin
 
 ---
 
-## 🗂️ Files in This Repository
+## Files in This Repository
 - `layoff_data_cleaning.sql` – Complete SQL script with step-by-step cleaning
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - MySQL  
 - Reference: Alex The Analyst (YouTube)
 
 ---
 
-## 📊 What You Can Do With This Cleaned Dataset
+## What You Can Do With This Cleaned Dataset
 - Industry-wise analysis  
 - Country-specific layoff trends  
 - Company-level comparisons  
@@ -54,7 +54,7 @@ The raw layoff dataset had several issues, including inconsistent values, missin
 
 ---
 
-## 📘 Learning Outcome
+## Learning Outcome
 This project helped build strong SQL cleaning skills, including:
 - Working with inconsistent text fields  
 - Cleaning categorical and numeric data  
