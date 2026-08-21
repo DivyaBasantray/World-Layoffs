@@ -35,11 +35,6 @@ The raw layoff dataset had several issues, including inconsistent values, missin
 
 ---
 
-## Files in This Repository
-- `layoff_data_cleaning.sql` – Complete SQL script with step-by-step cleaning
-
----
-
 ## Tools Used
 - MySQL  
 
