@@ -42,15 +42,6 @@ The raw layoff dataset had several issues, including inconsistent values, missin
 
 ## Tools Used
 - MySQL  
-- Reference: Alex The Analyst (YouTube)
-
----
-
-## What You Can Do With This Cleaned Dataset
-- Industry-wise analysis  
-- Country-specific layoff trends  
-- Company-level comparisons  
-- Time-series pattern analysis
 
 ---
 
